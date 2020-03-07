@@ -13,7 +13,5 @@ Designed using Java Swing and AWT Components, using concepts of Object Oriented 
 * Java
 * Java AWT
 * Java Swing
-* Java Sockets
-* Java Multithreading
 * IntelliJ
 
